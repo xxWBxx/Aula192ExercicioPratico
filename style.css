@@ -1,0 +1,36 @@
+body {
+    padding-top: 70px;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #3498db;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+.section {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+    color: #3498db;
+    margin-bottom: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+}
